@@ -2,6 +2,7 @@
   "version": 2,
   "projects": {
     "ak": "apps/ak",
-    "ak-e2e": "apps/ak-e2e"
+    "ak-e2e": "apps/ak-e2e",
+    "components": "libs/components"
   }
 }
