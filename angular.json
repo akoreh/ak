@@ -3,6 +3,8 @@
   "projects": {
     "ak": "apps/ak",
     "ak-e2e": "apps/ak-e2e",
-    "components": "libs/components"
+    "components": "libs/components",
+    "components-e2e": "apps/components-e2e",
+    "tailwind": "libs/tailwind"
   }
 }
